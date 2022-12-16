@@ -6,6 +6,6 @@ The file trapezoid_method.f95 contain a function integre_2(f, a, b, c, d, n, m) 
  
 After that, I use this function to evaluate the primitive
 
-F(x, y) = $$\int \int$$ [y cos (πx) + x cos (πy)] dy dx  
+F(x, y) = $\int \int$ [y cos (πx) + x cos (πy)] dy dx  
 
 for values of (x, y) ∈ [-5, 5], in order to reconstruct the graph.
